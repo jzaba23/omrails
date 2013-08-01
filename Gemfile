@@ -19,6 +19,7 @@ group :assets do
   gem 'coffee-rails', '~> 3.2.1'
 	gem 'jquery-rails'
   gem 'uglifier', '>= 1.0.3'
+  gem 'bootstrap-sass', '~> 2.3.2.1'
 end
 
 
